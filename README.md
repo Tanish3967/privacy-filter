@@ -29,7 +29,8 @@ To close the filter, press the `Esc` key.
 
 ## Troubleshooting
 - If you encounter module import errors, ensure you have installed dependencies properly with `pip install -r requirements.txt`.
-- The script is designed for **Windows**. For other operating systems, modifications might be required.
+- The script is designed for **Windows**.
+- Edit: Now also available for **macOS**
 
 ## License
 This project is open-source under the MIT License.
